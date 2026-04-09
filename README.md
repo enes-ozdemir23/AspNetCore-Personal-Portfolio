@@ -14,7 +14,7 @@
 | Mimari | N-Tier Architecture, Repository Design Pattern |
 | Kimlik | ASP.NET Identity, Rolleme |
 | Frontend | HTML, CSS, Bootstrap, JavaScript, Ajax |
-| Diğer | Charts, Raporlama, Mail Gönderme, Deploy |
+| Diğer | Charts, Raporlama, Mail Gönderme |
 | Araçlar | Git, GitHub |
 
 ---
@@ -41,10 +41,6 @@
 
 ### 📧 İletişim
 - ✅ Mail gönderme entegrasyonu
-
-### 🚀 Yayınlama
-- ✅ Deploy işlemleri
-- ✅ GitHub ile proje yönetimi
 
 ---
 
