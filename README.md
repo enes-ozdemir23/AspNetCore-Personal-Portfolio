@@ -60,7 +60,7 @@ CoreProject/
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/enesozdemir23/CoreProject.git
+git clone https://github.com/enes-ozdemir23/CoreProject.git
 
 # 2. appsettings.json bağlantı dizesini düzenle
 "ConnectionStrings": {
